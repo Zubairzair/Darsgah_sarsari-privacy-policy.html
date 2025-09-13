@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="ur" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <title>Privacy Policy — درسگاہ سرسری</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans Arabic", Arial; background:#fff; color:#111; margin:0; padding:20px;}
+    .container{max-width:840px; margin:18px auto; padding:22px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,.06);}
+    h1{text-align:center; margin-bottom:8px;}
+    p, li{line-height:1.7; margin:10px 0; font-size:16px;}
+    section{margin-top:18px; padding-top:12px; border-top:1px solid #eee;}
+    footer{margin-top:24px; color:#666; font-size:14px; text-align:center;}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Privacy Policy</h1>
+    <p>Last updated: <strong>2025-08-29</strong></p>
+
+    <section>
+      <h2>Overview</h2>
+      <p>
+        یہ پیولسی اس ایپ پر لاگو ہوتی ہے جس کا نام "اوزان ایکسپرٹ" ہے۔ یہ ایپ ویب ویو کے ذریعے ذیل میں دیے گئے ویب پیج کا مواد دکھاتی ہے:
+      </p>
+      <p><a href="https://usamasarsari.com/urdu-poetry/aozan" target="_blank" rel="noopener">https://usamasarsari.com/urdu-poetry/aozan</a></p>
+    </section>
+
+    <section>
+      <h2>Ownership</h2>
+      <p>
+        اس ایپ میں دکھائے جانے والا مواد <strong>Usama Sarsari</strong> کا ہے۔ ایپ کا developer <strong>Muhammad Zubair Zair</strong> ہے جو صرف technical developer ہے اور مواد کا مالک نہیں۔
+      </p>
+    </section>
+
+    <section>
+      <h2>Data collection</h2>
+      <p>
+        یہ ایپ بذاتِ خود کوئی ذاتی معلومات (نام، ای میل، فون نمبر وغیرہ) جمع، اسٹور یا شیئر نہیں کرتی۔ ایپ میں کوئی user authentication موجود نہیں۔ اگر آپ ویب پیج پر کسی لنک پر جائیں تو وہ ویب پیج اپنی الگ privacy پریکٹسز کے تابع ہو سکتی ہے۔
+      </p>
+    </section>
+
+    <section>
+      <h2>Third-party content & ads</h2>
+      <p>
+        ایپ ویب سائٹ کے مواد کو دکھاتی ہے۔ ویب سائٹ یا اس کے اندر چلنے والی کسی بھی تیسری پارٹی سروس (مثلاً ads، analytics وغیرہ) کے بارے میں ذمہ داری ویب سائٹ کے مالک کی ہے۔ اگر ایپ میں AdMob یا دیگر سروسز شامل ہوں تو ان کے متعلق معلومات اور opt-out links ویب سائٹ یا متعلقہ سروس فراہم کنندہ کے پاس ہوں گی۔
+      </p>
+    </section>
+
+    <section>
+      <h2>Children</h2>
+      <p>
+        یہ ایپ جان بوجھ کر بچوں سے ذاتی معلومات جمع نہیں کرتی۔ بچوں کی طرف سے ویب سائٹ تک رسائی والدین/سرپرست کی نگرانی میں ہونی چاہیے۔
+      </p>
+    </section>
+
+    <section>
+      <h2>Changes to this policy</h2>
+      <p>
+        ہم وقتاً فوقتاً اس پالیسی کو اپڈیٹ کر سکتے ہیں۔ کسی بھی تبدیلی کی صورت میں یہاں تاریخ بدل دی جائے گی۔
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>
+        مواد سے متعلق سوالات: <strong>Usama Sarsari</strong> (زیادہ تر رابطہ ویب سائٹ کے ذریعے ہوگا).<br>
+        ایپ کے تکنیکی امور کے لیے developer سے رابطہ کریں:<br>
+        <strong>Developer:</strong> Muhammad Zubair Zair<br>
+        <strong>Email:</strong> <em>hafizzubair279@gmail.com</em>
+      </p>
+    </section>
+
+    <footer>
+      © <span id="year"></span> Usama Sarsari (content owner). App developed by Muhammad Zubair Zair.
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
